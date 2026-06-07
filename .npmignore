@@ -1,0 +1,11 @@
+**/*.test.js
+.claude/
+.vscode/
+.github/
+bunfig.toml
+bun.lock
+eslint.config.cjs
+oxject.lld.md
+prettier.config.cjs
+spellcheck.config.cjs
+test-setup.js
