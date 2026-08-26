@@ -550,3 +550,4 @@ export default class Oxject extends EventTarget {
 		this.destroy();
 	}
 }
+
